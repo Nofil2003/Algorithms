@@ -1,0 +1,12 @@
+# Compiled Java
+*.class
+
+# Compiled C/C++ binaries
+*.o
+*.out
+a.out
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
